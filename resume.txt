@@ -1,0 +1,42 @@
+Giacomo Mossio RESUME
+Status: M.Sc. in Computer Science – Graduated Sep 2025 Freiburg, Germany
+Fields: AI, ML, DL, Data Science, Data Engineering
+Languages: Italian(Native), English(C1), Spanish(C1), German(B1)
+Citizenship: Italian Citizen – Eligible to work in the EU (no visa sponsorship required) www.linkedin.com/in/giacomo-mossio
+Summary
+Graduated M.Sc. Computer Science with AI specialization, focusing on Machine Learning, Deep Learning, and optimization algorithms. Just finished working on my thesis on large-scale power grid synthesis using Ant-Colony Optimization.
+1.5 years of experience as a Data Engineer, designing scalable ETL pipelines and migrating data to cloud platforms
+(GCP, Azure) for major international clients.
+Seeking Data Scientist / ML Engineer / AI Engineer roles. Passionate about ML, automation, and data-driven problem
+solving. Target-focused, innovation-driven, and highly curious. Strong communicator who values clarity and alignment
+in teamwork. In my free time I enjoy doing physical activity, including playing all kinds of sport.
+Experience
+Master Thesis Internship - Fraunhofer-Institut für Solare Energiesysteme - Freiburg Dec 2024 - Sep 2025
+· Designed and implemented Ant-Colony Optimization algorithms for power grid synthesis for all Germany.
+· Created new state of the art reusable synthethic power grids.
+· Generated synthetic power grids from real world maps and simulated power loads.
+· Reduced process runtime by 95% by algorithm optimization.
+Master Project - Intelligent Embedded Systems Lab - Freiburg Jan 2024 - May 2024
+· Developed Active Learning for medical audio classification achieving 90% reduction in required labeled data.
+· Worked with pretrained Eff-UNet model on bowel sounds spectrograms.
+· Saved potentially 350 hours of data labeling work with Active Learning.
+Data Engineer - Target Reply - Milan Mar 2021 - Aug 2022
+· Worked remotely on many (international) projects for big clients such as Enel, Intesa Sanpaolo and FCA Bank.
+· Designed and Maintained ETLs pipelines with Informatica IICS and Informatica Powercenter.
+· Created Cloud Migration (real time) processes with GCP and Azure.
+· Developed the ability to work independently, managing complex data projects with minimal supervision while ensuring high-quality results.
+Education
+M. Sc. Computer Science - University of Freiburg (Germany) - 1.6 Oct 2022 - Sep 2025
+· Specialization in Artificial Intelligence with focus on Machine Learning.
+· Gained solid theory on foundations of ML but also practical skills.
+· Relevant courses: Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Automated Machine Learning, Digital Health and Information Retrieval.
+B. Sc. Computer Science - University of Turin (Italy) - 103/110 Sep 2017 - Dec 2020
+· Thesis: Social Commitments Mining analyzing Business Process Logs
+· 1 year of Erasmus in Las Palmas (Spain) gave me International experience improving adaptability.
+Technical Skills
+• Programming: Python (Pandas, Numpy, TensorFlow, PyTorch, MLflow, OpenCV, Geopandas, Matplotlib), SQL,
+Bash, Java.
+• Machine Learning & Data Science: Deep Learning, Active Learning, Reinforcement Learning, Auto ML, HPO.
+• Data Engineering & Cloud: ETL Tools (IICS, PowerCenter), Hive, Oracle, MongoDB; GCP, Azure.
+• Tools & Platforms: Git, Anaconda, Jupyter Notebook, Visual Studio Code, PyCharm, Linux, Jira, Slack, Teams.
+www.linkedin.com/in/giacomo-mossio
