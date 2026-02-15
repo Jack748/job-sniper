@@ -1,7 +1,7 @@
 # 🎯 AI Job Sniper
 > *An automated, AI-powered headhunter that hunts for jobs while I sleep.*
 
-![Job Market Visualization](plots/job_radar.png)
+![Job Market Visualization](daily_plots/job_radar.png)
 
 ## 💡 What is this?
 Finding the perfect job is a data problem. Instead of doom-scrolling LinkedIn, I built an **ETL pipeline** that:
